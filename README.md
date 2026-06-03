@@ -1,28 +1,23 @@
-<!-- Título animado -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=4C64F7&center=true&vCenter=true&width=500&lines=Desarrollador+en+formación;Explorando+datos+y+backend;Python+%7C+SQL+%7C+Power+BI+%7C+JS" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0d1117&height=130&section=header&text=Federico%20Polito&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Desarrollo%20%7C%20Datos%20%7C%20Backend&descAlignY=75&descSize=16&descFontColor=888888" alt="Header" />
 </p>
-
-<h1 align="center">¡Hola! Soy Federico Polito 👋</h1>
-
 <p align="center">
   Estudiante de <strong>Tecnicatura Superior en Desarrollo de Software</strong> en Buenos Aires.<br/>
-  Con experiencia previa en administración y atención al cliente, hoy me enfoco en el cruce entre <strong>desarrollo</strong> y <strong>análisis de datos</strong>.
 </p>
 
 ---
 
-## 🧑‍💻 Sobre mí
+## Sobre mí
 
-- 📚 Cursando la Tecnicatura Superior en Desarrollo de Software
-- 🔍 Explorando roles en desarrollo, soporte IT y análisis de datos
-- 🛠️ Proyectos en Python, JavaScript, PHP y SQL
-- 📊 Construyendo mi portfolio con proyectos de análisis de datos (Python + SQL + Power BI)
-- 📍 Buenos Aires, Argentina
+* Cursando la Tecnicatura Superior en Desarrollo de Software
+* Explorando roles en desarrollo, soporte IT y análisis de datos
+* Proyectos en Python, JavaScript, PHP y SQL
+* Construyendo mi portfolio con proyectos de análisis de datos (Python + SQL + Power BI)
+* Buenos Aires, Argentina
 
 ---
 
-## ⚙️ Stack tecnológico
+## Mi Stack tecnológico
 
 **Lenguajes**
 
@@ -51,7 +46,7 @@
 
 ---
 
-## 🚀 Proyectos destacados
+## Proyectos destacados
 
 | Proyecto | Descripción | Tecnologías |
 |---|---|---|
@@ -62,9 +57,12 @@
 
 ---
 
-## 📫 Contacto
+## Contacto
 
 <p>
+  <a href="https://fedepolito.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-fedepolito.github.io-000000?style=flat&logo=github&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/federico-polito/">
     <img src="https://img.shields.io/badge/LinkedIn-federico--polito-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
@@ -81,7 +79,5 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fedepolito&show_icons=true&theme=default&hide_border=true&count_private=true" height="150" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fedepolito&layout=compact&theme=default&hide_border=true" height="150" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0d1117&height=80&section=footer" alt="Footer" />
 </p>
