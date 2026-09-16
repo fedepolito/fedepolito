@@ -52,8 +52,8 @@
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
-| **[Maratón Ituzaingó](https://github.com/fedepolito/maraton-ituzaingo)** · [demo](https://fedepolito.github.io/maraton-ituzaingo/public/) | Plataforma de inscripciones para el Municipio de Ituzaingó. Panel de administración con roles, lector de QR y exportación de datos. Trabajo en equipo | PHP · MySQL · JavaScript |
-| **[LALIsta](https://github.com/fedepolito/lalista-frontend)** · [demo](https://lalista-frontend.vercel.app) | Comparador de precios de supermercados de zona oeste. Incorporación a un equipo con el proyecto en curso | Next.js · TypeScript · Supabase · Tailwind |
+| **[Maratón Ituzaingó](https://github.com/fedepolito/maraton-ituzaingo)** · [demo visual](https://fedepolito.github.io/maraton-ituzaingo/public/) | Plataforma de inscripciones para el Municipio de Ituzaingó. Panel de administración con roles, lector de QR y exportación de datos. Trabajo en equipo | PHP · MySQL · JavaScript |
+| **[LALIsta](https://github.com/fedepolito/lalista-frontend)** · [sitio](https://lalista-frontend.vercel.app) | Comparador de precios de supermercados de zona oeste. Incorporación a un equipo con el proyecto en curso | Next.js · TypeScript · Supabase · Tailwind |
 | **[Venta de Entradas](https://github.com/fedepolito/venta-entradas)** | Gestión de eventos y tickets, con autenticación, control de acceso por roles y reportes | PHP · MySQL · JavaScript |
 | **[RR Amoblamientos](https://github.com/fedepolito/rr-amoblamientos-landing)** · [sitio](https://rr-amoblamientos.github.io/) | Landing page para un negocio real de amoblamientos | HTML · Tailwind · JavaScript |
 | **[Fábrega](https://github.com/fedepolito/fabrega-app)** | Aplicación mobile de tienda online. Proyecto académico para practicar React Native | React Native · TypeScript · Expo |
